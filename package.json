@@ -24,8 +24,8 @@
   "peerDependencies": {
     "@nestjs/common": ">= 6.10.1",
     "@nestjs/core": ">= 6.10.1",
-    "@typegoose/typegoose": ">= 6.1.5",
-    "mongoose": ">= 5.7.12"
+    "@typegoose/typegoose": ">= 9.0.0",
+    "mongoose": ">= 6.0.7"
   },
   "dependencies": {
     "is-class": "^0.0.9",
